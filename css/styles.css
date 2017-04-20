@@ -1,1 +1,28 @@
+/*.green {
+  background-color: #f5fffa;
+}
 
+.dark-green {
+  background-color: #cef2e0;
+}*/
+/*
+#bottom{
+  margin-left: 200px;
+}*/
+
+.side-bar{
+  /*height: 00px;*/
+  float: left;
+}
+
+
+ul{
+  list-style: none;
+  margin:0;
+  padding:0;
+
+}
+
+.container {
+  float: right;
+}
